@@ -3,8 +3,8 @@
 int main() {
  
    int A,B,SOMA;
-    scanf("%d %d",&A &B);
+    scanf("%d %d",&A,&B);
     SOMA = A+B;
-    printf ("SOMA = %d",SOMA);
+    printf ("SOMA = %d\n",SOMA);
     return 0;
 }
