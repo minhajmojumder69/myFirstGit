@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/Program/myFirstGit/Phitron/Assignment 2.0",
-      "program": "f:/Program/myFirstGit/Phitron/Assignment 2.0/build/Debug/outDebug",
+      "cwd": "f:/Program/myFirstGit/LabWork",
+      "program": "f:/Program/myFirstGit/LabWork/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
