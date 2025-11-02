@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 int main(){
     char ar[11];
     scanf("%s",ar);
@@ -8,24 +9,18 @@ int main(){
     int lg1= strlen(ar);
     int lg2= strlen(cr);
     printf("%d %d\n",lg1,lg2);
+   
     // for (int i = 0; i<11 ; i++)
     // {
     //     br[i]=ar[i];
     // }
+    
     // for (int i = 0; i < 22; i++)
     // {
     //     br[i+lg1]= cr[i];
     // }
-    for (int i = 0; i<11 ; i++)
-    {
-        br[i]=ar[i];
-    }
-    
-    for (int i = 0; i < 22; i++)
-    {
-        br[i+lg1]= cr[i];
-    }
-    printf("%s\n",br);
-    
+    strcat(ar,cr);
+    printf("%s\n",ar);
+      
     return 0;
 }
