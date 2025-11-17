@@ -8,10 +8,13 @@ int main()
     {
         case 1:
             cout << "Saturday" ;
+            break;
         case 2:
             cout << "Sunday" ;
+            break;
         case 3:
             cout << "Monday";
+            break;
     }
     return 0;
 }
