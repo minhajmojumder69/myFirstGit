@@ -1,0 +1,42 @@
+#include<bits/stdc++.h>
+using namespace std;
+class Student
+{
+    public:
+    string name;
+    int roll;
+    int marks;
+
+};
+bool cmp(Student l,Student r)  
+{
+    if (l.marks > r.marks)
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+ 
+}
+int main()
+{   
+    int n;
+    cin >> n;
+    Student ar[n];
+    for (int i = 0; i < n; i++)
+    {
+        cin >> ar[i].name >> ar[i].roll >> ar[i].marks;
+
+    }
+    sort(ar,ar+n,cmp);
+    for (int i = 0; i < n; i++)
+    {
+        cout << ar[i].name << " " << ar[i].roll << " " << ar[i].marks << endl;
+
+    }
+
+    
+    return 0;
+}
