@@ -1,0 +1,44 @@
+***Calculate Your CGPA/SGPA***
+
+Press 1,if you want to calculate SGPA
+Or Press 2,if you want to calculate CGPA
+
+*Enter Your Total Semester Number*
+
+Enter Your Grade Point and Credit of 1st/nd semester
+1st/nd Semester SGPA : 3.08
+
+Enter Your Grade Point and Credit of 2st/nd semester
+2st/nd Semester SGPA : 2.50
+
+Enter Your Grade Point and Credit of 3st/nd semester
+3st/nd Semester SGPA : 3.44
+
+Enter Your Grade Point and Credit of 4st/nd semester
+4st/nd Semester SGPA : 3.00
+
+Enter Your Grade Point and Credit of 5st/nd semester
+5st/nd Semester SGPA : 2.87
+
+Enter Your Grade Point and Credit of 6st/nd semester
+6st/nd Semester SGPA : 3.08
+
+Enter Your Grade Point and Credit of 7st/nd semester
+7st/nd Semester SGPA : 2.50
+
+Enter Your Grade Point and Credit of 8st/nd semester
+8st/nd Semester SGPA : 3.44
+
+Enter Your Grade Point and Credit of 9st/nd semester
+9st/nd Semester SGPA : 3.00
+
+Enter Your Grade Point and Credit of 10st/nd semester
+10st/nd Semester SGPA : 2.87
+
+Enter Your Grade Point and Credit of 11st/nd semester
+11st/nd Semester SGPA : 4.00
+
+Enter Your Grade Point and Credit of 12st/nd semester
+12st/nd Semester SGPA : 4.00
+**Your Total Credit : 160.00**
+**Your Total CGPA is: 3.13**

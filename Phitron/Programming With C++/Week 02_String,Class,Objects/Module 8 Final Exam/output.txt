@@ -1,2 +1,5 @@
-rahimisa#guy
-can#tellmewhereicanfindheriwillbegreatefulto#if#tellmetheanswer
+1. Add  2. Display  3. Search  4. Update  5. Exit
+Choose: 
+Enter Name of contact to update: 
+
+ Contact not found.
