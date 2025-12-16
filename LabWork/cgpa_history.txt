@@ -1,0 +1,15 @@
+CGPA Calculation: 3.13 (Total Credit: 160.00)
+SGPA Calculation: 3.15
+CGPA Calculation: 3.13 
+ (Total Credit: 160.00)
+CGPA Calculation: 3.13 
+(Total Credit: 160.00)
+SGPA Calculation: 3.15
+CGPA Calculation: 3.13 
+(Total Credit: 160.00)
+CGPA Calculation: 3.13 
+(Total Credit: 160.00)
+CGPA Calculation: 3.13 
+(Total Credit: 160.00)
+CGPA Calculation: 3.13 
+(Total Credit: 160.00)
